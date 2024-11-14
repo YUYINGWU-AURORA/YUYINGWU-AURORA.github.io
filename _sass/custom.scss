@@ -1,0 +1,41 @@
+/* ==========================================================================
+   CUSTOM STYLES
+   ========================================================================== */
+
+
+/*台式电脑*/
+.greedy-nav .visible-links {
+  .yyw-menu-items-wrap {
+    visibility: hidden;
+  }
+  #duplicate_menu_2 {
+    position: absolute;
+    top: 0;
+    right: 20%;
+    display: block;
+    .yyw-menu-items-wrap {
+      visibility: visible !important;
+    }
+  }
+
+}
+
+/*手机*/
+@media all and (max-width: 560px) {
+
+  .greedy-nav .visible-links {
+    .yyw-menu-items-wrap {
+      visibility: visible;
+    }
+
+    #duplicate_menu_2 {
+      display: none;
+
+    }
+
+  }
+
+  .hidden-links #duplicate_menu_2 {
+    display: none;
+  }
+}

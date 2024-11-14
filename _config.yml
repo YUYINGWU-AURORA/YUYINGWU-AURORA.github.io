@@ -1,8 +1,8 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuying Wu's Personal Homepage"
+title                    : "Yuying Wu's Homepage"
 title_separator          : "-"
-name                     : &name "Yuying Wu"
+name                     : &name "Aurora (Yuying) Wu"
 description              : &description "personal description"
 url                      : https://yuyingwu-aurora.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -11,9 +11,9 @@ repository               : "yuyingwu-aurora.github.io/yuying"
 # Site Author
 author:
   # Biographic information
-  avatar           : "CV照.png"
+  avatar           : "profile_me.png"
   avatar_class     : "custom-avatar"  # 添加自定义CSS类
-  name             : "Yuying Wu"
+  name             : "Aurora (Yuying) Wu"
   pronouns         : # example: "she/her"
   bio              : "PhD in Economics"
   location         : "UK"

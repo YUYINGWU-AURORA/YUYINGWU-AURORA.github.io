@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<p style="line-height: 2; margin-top: 50px;">
-    I am a PhD candidate in Economics at the University of Birmingham, expecting to graduate in 2025. My current research centres on empirical analysis of imperfect knowledge in Macro and Finance, with a specific emphasis on macroeconomic policy making. I am also interested in the formation and learning of expectations among enterprises and households.
-</p>
+<h2 style="margin: 0;"> About Me </h2>
 
-<div style="display: flex; justify-content: center; gap: 2rem; padding-top: 50px;">
+<div style="margin-top: 1rem;">
+I am a PhD candidate in Economics at the University of Birmingham, expecting to graduate in 2025. My current research centres on empirical analysis of imperfect knowledge in Macro and Finance, with a specific emphasis on macroeconomic policy making. I am also interested in the formation and learning of expectations among enterprises and households.
+</div>
+
+<div style="display: flex; justify-content: center; gap: 2rem; ">
   <!-- Left Column: Interests -->
   <div style="width: 45%;">
     <h2>Interests</h2>

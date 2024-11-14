@@ -2,6 +2,14 @@
    CUSTOM STYLES
    ========================================================================== */
 
+.yyw-avatar-wrapper {
+  .author__avatar {
+    margin-left: 6%;
+  }
+}
+
+
+
 
 /*台式电脑*/
 .greedy-nav .visible-links {
@@ -38,4 +46,42 @@
   .hidden-links #duplicate_menu_2 {
     display: none;
   }
+
+
+  .yyw-avatar-wrapper {
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    .under-avatar-content-wrap {
+      margin: 2rem;
+    }
+
+
+    .author__avatar {
+      margin-left: unset;
+    }
+  }
+
+
+
+}
+
+
+.under-avatar-content-wrap {
+  padding-left: 1rem;
+}
+
+
+
+._pageId_publication_page {
+  .archive {
+    padding-right: 4%;
+    h3 {
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #f2f3f3;
+      margin: 4rem 0 0 0;
+    }
+  }
+
+
 }

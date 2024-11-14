@@ -3,9 +3,12 @@ layout: archive
 title: "Selected Works in Progress"
 permalink: /publications/
 author_profile: true
+page_id: publication_page
 ---
  
 {% include base_path %}
+
+ 
 
 
 ### Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach
@@ -46,3 +49,5 @@ Corresponding author, withWanyu Chung and Robert Elliott Working Paper
 
 ### The Visual Narrative of Climate Change: Assessing lts Effect on Capital Market Movements
 
+
+ 

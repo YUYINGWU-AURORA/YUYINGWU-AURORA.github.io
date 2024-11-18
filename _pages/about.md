@@ -10,12 +10,17 @@ redirect_from:
 <h2 style="margin: 0;"> About Me </h2>
 
 <div style="margin-top: 1rem;">
-I am a PhD candidate in Economics at the University of Birmingham, expected to graduate in 2025. I am fortunate to be supervised by Professor Kaushik Mitra and Dr. Pei Kuang.
-
-My research primarily focuses on empirical analyses in the fields of macroeconomics and finance, with a specific emphasis on understanding the implications of imperfect knowledge and its role in shaping macroeconomic policy decisions. Additionally, I am keenly interested in the formation and learning of expectations within enterprises and households.
-
-I am on the 2025-2026 job market and will be available for interviews.
+  <p>
+    I am a PhD candidate in Economics at the University of Birmingham, expected to graduate in 2025. I am fortunate to be supervised by Professor Kaushik Mitra and Dr. Pei Kuang.
+  </p>
+  <p>
+    My research primarily focuses on empirical analyses in the fields of macroeconomics and finance, with a specific emphasis on understanding the implications of imperfect knowledge and its role in shaping macroeconomic policy decisions. Additionally, I am keenly interested in the formation and learning of expectations within enterprises and households.
+  </p>
+  <p>
+    I am on the 2025-2026 job market and will be available for interviews.
+  </p>
 </div>
+
 
 <div style="display: flex; justify-content: space-between;   ">
   <!-- Left Column: Interests -->

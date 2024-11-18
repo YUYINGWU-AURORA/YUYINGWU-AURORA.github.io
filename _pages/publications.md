@@ -35,10 +35,4 @@ Corresponding author, with Prof.Kaushik Mitra and Prof.Pei Kuang
 
 
 
-
-
-
-### The Visual Narrative of Climate Change: Assessing lts Effect on Capital Market Movements
-
-
  

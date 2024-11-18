@@ -2,7 +2,7 @@
 locale                   : "en-US"
 title                    : "Yuying Wu's Homepage"
 title_separator          : "-"
-name                     : &name "Aurora (Yuying) Wu"
+name                     : &name "Yuying Wu"
 description              : &description "personal description"
 url                      : https://yuyingwu-aurora.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

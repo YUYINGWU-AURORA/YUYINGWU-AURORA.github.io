@@ -17,7 +17,8 @@ author:
   pronouns         : # example: "she/her"
   bio              : "PhD in Economics"
   location         : "UK"
-  employer         : "University of Birmingham"
+  employer         : "university of birmingham"
+  employer_link    : "https://www.birmingham.ac.uk"
   email            : "YXW1043@STUDENT.BHAM.AC.UK"
 
   # Social media

@@ -38,8 +38,8 @@ redirect_from:
   <div style="width: 45%;">
     <h2>Education</h2>
     <p><strong>PhD in Economics</strong><br>University of Birmingham, Expected 2025</p>
-    <p><strong>MSc in Financial Economics</strong><br>University of Birmingham, 2020</p>
+    <p><strong>MSc in Financial Economics (Distinction) </strong><br>University of Birmingham, 2020</p>
     <p><strong>LLB in Law</strong><br>Shanxi University, 2019</p>
-    <p><strong>BSc in Economic Statistics</strong><br>Shanxi University, 2019 (Exchange: Aston University, UK)</p>
+    <p><strong>BSc in Economic Statistics</strong><br>Shanxi University, 2019 <br> (Exchange: Aston University, UK)</p>
   </div>
 </div>

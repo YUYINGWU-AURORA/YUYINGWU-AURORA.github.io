@@ -29,7 +29,7 @@ Abstract: Using data from the Longitudinal Small Business Survey (LSBS), this pa
 
 
 
-### Tax Policy for the Few, Expectations for All: Income-Based Divergences in Macroeconomic Projections
+### Tax Policy and Public Macroeconomic Expectations: Experimental Evidence from the UK
 
 Corresponding author, with Prof.Kaushik Mitra and Prof.Pei Kuang
 

@@ -22,7 +22,7 @@ Abstract: Using longitudinal survey data of Small and Medium-sized Enterprises (
 *Please feel free to get in touch if you’d like to read the paper.*
 
 
-### The Brexit Referendum Effect:Business Performance for UK SMEs
+### The Brexit Referendum Effect: Business Performance for UK SMEs
 
 *Working paper*
 

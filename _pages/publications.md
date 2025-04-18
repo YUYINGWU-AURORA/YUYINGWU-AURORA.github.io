@@ -20,9 +20,7 @@ Abstract: Using longitudinal survey data of Small and Medium-sized Enterprises (
 
 
 
-### The Brexit Referendum Effect: Political Stances and Business Performance for UK SMEs
-
-This paper is my individual work
+### The Brexit Referendum Effect:Business Performance for UK SMEs
 
 Abstract: Using data from the Longitudinal Small Business Survey (LSBS), this paper examines the impact of the 2016 Brexit referendum on the operational expectations, actual performance, and investment decisions of UK small and medium-sized enterprises (SMEs). The results highlight the significant role of firms' Brexit stance in shaping both expectations and investment behavior. SMEs opposed to Brexit displayed more pessimistic expectations and conservative investment strategies compared to pro-Brexit firms. Additionally, we find evidence that the referendum adversely affected SMEs' actual performance, particularly in turnover growth and per capita productivity. Domestic firms reacted more swiftly and were more negatively impacted in the early years following the referendum, while SMEs engaged in EU trade saw more pronounced effects primarily in the final year before Brexit, with those involved in bilateral trade experiencing milder impacts compared to firms focused solely on unilateral trade.
 
@@ -33,7 +31,9 @@ Abstract: Using data from the Longitudinal Small Business Survey (LSBS), this pa
 
 Corresponding author, with Prof.Kaushik Mitra and Prof.Pei Kuang
 
+Work in progress
 
+This paper studies how different tax policies shape public macroeconomic expectations using a randomized controlled trial in the UK. We plan to focus on expectations of key macroeconomic variables, including inflation and the Bank Rate, and to explore heterogeneity in these expectations across income groups under varying tax policy scenarios.
 
 
 

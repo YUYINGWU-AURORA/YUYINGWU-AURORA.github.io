@@ -22,11 +22,11 @@ Abstract: Using longitudinal survey data of Small and Medium-sized Enterprises (
 *Please feel free to get in touch if you’d like to read the paper.*
 
 
-### The Brexit Referendum Effect: Business Performance for UK SMEs
+### Brexit Referendum Shock and UK SMEs: Attitudes, Expectations, and Business Outcomes
 
-*Working paper*
+*Under Review, ABS 3\* Journal*
 
-Abstract: Using data from the Longitudinal Small Business Survey (LSBS), this paper examines the impact of the 2016 Brexit referendum on the operational expectations, actual performance, and investment decisions of UK small and medium-sized enterprises (SMEs). The results highlight the significant role of firms' Brexit stance in shaping both expectations and investment behavior. SMEs opposed to Brexit displayed more pessimistic expectations and conservative investment strategies compared to pro-Brexit firms. Additionally, we find evidence that the referendum adversely affected SMEs' actual performance, particularly in turnover growth and per capita productivity. Domestic firms reacted more swiftly and were more negatively impacted in the early years following the referendum, while SMEs engaged in EU trade saw more pronounced effects primarily in the final year before Brexit, with those involved in bilateral trade experiencing milder impacts compared to firms focused solely on unilateral trade.
+Abstract: This paper examines how small and medium-sized enterprises’ (SMEs) attitudes toward Brexit shaped their behaviour following the 2016 referendum. Using panel data from the Longitudinal Small Business Survey for 2015–2019, I classify firms based on the views of business owners or managers regarding Brexit’s impact on their businesses. I then analyse how these attitudes relate to expectations, operational outcomes, and investment behaviour in the post-referendum period. Both turnover and employment growth expectations declined after the vote. Anti-Brexit firms reported more pessimistic turnover forecasts than pro-Brexit firms, while employment expectations fell sharply for both groups. In terms of actual performance, and despite the absence of major policy changes, SMEs experienced slower turnover growth and lower labour productivity after the referendum, regardless of stance, with effects varying by exposure to EU trade. Investment plans also weakened, with anti-Brexit firms more likely to postpone or reduce spending on research and development, human capital, and physical capital. The findings show that business sentiment can shape the economic effects of major political events such as the Brexit referendum and highlight the importance of accounting for firms’ attitudes when assessing policy uncertainty.
 
 *Please feel free to get in touch if you’d like to read the paper.*
 
@@ -35,10 +35,10 @@ Abstract: Using data from the Longitudinal Small Business Survey (LSBS), this pa
 
 Corresponding author, with Prof.Kaushik Mitra and Prof.Pei Kuang
 
-*Work in progress*
+*Working paper*
 
-This paper studies how different tax policies shape public macroeconomic expectations using a randomized controlled trial in the UK. We plan to focus on expectations of key macroeconomic variables, including inflation and the Bank Rate, and to explore heterogeneity in these expectations across income groups under varying tax policy scenarios.
+Abstract：As the UK faces mounting fiscal pressures in the aftermath of Brexit and the COVID-19 pandemic, higher taxation has become a likely policy response. This paper investigates how changes in personal income tax influence households’ macroeconomic expectations and financial behaviour, with particular attention to heterogeneity across tax burdens. I conducted a randomised survey experiment with more than 1,100 UK participants, combining a pre–post belief-elicitation design with varied tax policy treatments. In the short run, both larger tax increases and spending justifications raise inflation expectations, while in the longer run only substantial tax rises continue to matter, especially among high-tax households. These households also exhibit greater pessimism, anticipating slower GDP growth and higher public debt. I further examine the mechanisms underlying these expectation updates, although they differ across households and policy scenarios. Behavioural outcomes are consistent with these beliefs. Under higher tax increases, high-tax households report stronger saving intentions, whereas low-tax households are more likely to reduce consumption. Overall, the results indicate that tax policy shapes both expectations and forward-looking financial choices in heterogeneous ways.
 
-
+*Please feel free to get in touch if you’d like to read the paper.*
 
  
